@@ -1,2 +1,2 @@
-export const ProfilePicture = `https://avatars.githubusercontent.com/u/104876435?s=400&u=76c4b66edce333e9e4f861bffac274f55761f583&v=4`
+export const ProfilePicture = `https://res.cloudinary.com/dmkghcrs2/image/upload/v1709402377/1617859446875_mjyjhi.jpg`
 
