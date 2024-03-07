@@ -37,7 +37,7 @@ const Section3 = () => {
                   <span>HTML CSS </span>
                   <a  href={"https://grandma.vercel.app/"} target="_blank"><FaLink /></a>    
                   <a href={"https://github.com/MarFandino84/Grandma"} target="_blank" ><FaGithub /></a>    
-            
+
 
         </Container>
 

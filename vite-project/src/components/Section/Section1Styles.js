@@ -1,6 +1,22 @@
 import { keyframes } from "styled-components"
 import styled  from "styled-components"
 
+export const DownloadCVDiv = styled.div`
+display: flex; flex-direction: column;
+justify-content: center; align-items: center;
+position: absolute; top: 2px; right: 5px;
+
+p {
+   color: var(--yellowback);
+   font-weight: 450; font-style: italic;
+}
+a { 
+   text-decoration: none;
+   color: white;
+   
+}
+`
+
 
 export const ContainerHero = styled.div`
 max-width: 80vw; display: flex; flex-direction: row;
